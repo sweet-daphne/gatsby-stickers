@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdev_stickers=self.webpackChunkdev_stickers||[]).push([[218],{2513:function(e,t,n){n.r(t);var l=n(7294);t.default=()=>l.createElement("main",null,l.createElement("h1",null,"404 not found, you're lost;"))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-b57048dfd12c2d47d28c.js.map
