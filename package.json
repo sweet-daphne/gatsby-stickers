@@ -13,10 +13,13 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "deploy": "gh-pages -d public",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "gatsby": "^5.12.3",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -25,5 +28,6 @@
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "typescript": "^5.1.6"
-  }
+  },
+  "homepage": "https://sweet-daphne.github.io/gatsby-stickers"
 }
