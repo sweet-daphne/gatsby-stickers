@@ -2,7 +2,7 @@ import type { GatsbyConfig } from 'gatsby';
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `DevStickers`,
+    title: `DevStickers!`,
     siteUrl: `https://www.yourdomain.tld`,
     description: `Buy the best stickers`,
   },
